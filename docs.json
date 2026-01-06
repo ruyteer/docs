@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "InTake Documentação",
   "colors": {
-    "primary": "#ffffff",
+    "primary": "#07C983",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#ffffff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -118,5 +118,9 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "appearance": {
+    "strict": true,
+    "default": "dark"
   }
 }
